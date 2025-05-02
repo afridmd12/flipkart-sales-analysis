@@ -41,5 +41,5 @@ The dataset includes the following columns:
 
 ## Dashboard Preview
 - ![Dashboard](Dashboard.png)
-- ![Dashboard Preview](dashboard_preview.png)
+- ![Insights](Insights.png)
  
