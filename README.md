@@ -40,5 +40,6 @@ The dataset includes the following columns:
 - Power bi
 
 ## Dashboard Preview
-- ![Dashboard](dashboard_preview.png)
+- ![Dashboard](Dashboard.png)
+- ![Dashboard Preview](dashboard_preview.png)
  
