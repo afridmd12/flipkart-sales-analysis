@@ -38,3 +38,7 @@ The dataset includes the following columns:
 - Jupyter Notebook
 - Excel for data source
 - Power bi
+
+## Dashboard Preview
+- ![Dashboard](dashboard_preview.png)
+ 
